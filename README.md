@@ -9,7 +9,7 @@ Build an application that allows users to input their location information to ge
 This project highlights my use of HTML, CSS and javaScript;a user friendly applcation displays a the temperatures accurately from a user's precise, city, state, and country.
 **Link to project: ddweatherapp.netlify.app 
 
-![snip](pic.jpg)
+![snip](Capture.PNG)
 
 ## How It's Made:
 
